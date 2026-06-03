@@ -2,6 +2,14 @@
 
 A simple Android application built in Java to demonstrate the power of **Implicit Intents**. Currently, this project serves as a functional prototype that showcases how to seamlessly hand off tasks to other specialized applications on an Android device.
 
+## Member
+| Student Id | Name 
+| --- | ---|
+| 23125039 | Trịnh Minh Huy 
+| 24125022 | Đặng Đình Trung
+| 24125033 | Lâm Vĩnh Khang 
+| 24125086 | Bùi Cônng Vinh
+
 ## 🚀 Current Progress
 
 The project currently features a single-screen "Contact Details" view populated with dummy data (Jane Doe). All primary action buttons are fully wired up and functional. 
